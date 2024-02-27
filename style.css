@@ -18,7 +18,7 @@ h3{
     color: orange;
 }
 header{
-    background-image: url(foooooon.jpg);
+    background-image: url(./foooooon.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     color: bisque;
