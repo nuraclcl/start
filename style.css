@@ -1,0 +1,145 @@
+ul{
+display: flex;
+list-style-type: none;
+justify-content: space-between;
+color: white;
+}
+body{
+    background-color: black ;
+}
+h3{
+    margin-left: 500px;
+    margin-top: 200px;
+    color: orange;
+}
+.main{
+    margin-top: 150px;
+    margin-left: 30px;
+    color: orange;
+}
+header{
+    background-image: url(foooooon.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: bisque;
+}
+.list{
+    margin-left: 70px;
+}
+.addres{
+    margin-top: 70px;
+    margin-left: 30px;
+}
+button{
+    background-color: orange;
+    border-radius: 7px;
+    box-shadow: 20px;
+}
+.tema{
+    color: orange;
+    margin-left: 600px;
+}
+.Product-container1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+.product1{
+    background-color: aliceblue;
+    border: 1px solid wheat;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    width: 280px;
+    height: 280px;
+    color: orange;
+}
+.product1 img{
+    width: 280px;
+    height: 280px;
+}
+.product2{
+    background-color: aliceblue;
+    border: 1px solid wheat;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    width: 280px;
+    height: 280px;
+    color: orange;
+}
+.product2 img{
+    width: 280px;
+    height: 280px; 
+}
+.product3{
+    background-color: aliceblue;
+    border: 1px solid wheat;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    width: 280px;
+    height: 280px; 
+    color: orange;
+}
+.product3 img{
+    width: 280px;
+    height: 280px;  
+}
+
+
+.Product-container2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 90px;
+}  
+.product4{
+    background-color: aliceblue;
+    border: 1px solid wheat;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    width: 280px;
+    height: 280px; 
+    color: orange;
+}
+.product4 img{
+    width: 280px;
+    height: 280px;  
+}
+.product5{
+    background-color: aliceblue;
+    border: 1px solid wheat;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    width: 280px;
+    height: 280px;   
+    color: orange; 
+}
+.product5 img{
+    width: 280px;
+    height: 280px;  
+}
+.product6{
+    background-color: aliceblue;
+    border: 1px solid wheat;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    width: 280px;
+    height: 280px; 
+    color: orange;
+}
+.product6 img{
+    width: 280px;
+    height: 280px;  
+}
